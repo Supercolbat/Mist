@@ -1,0 +1,24 @@
+{
+  "name": "mist",
+  "version": "1.0.0",
+  "description": "A cross-platform desktop communication app written with Electron.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Supercolbat/Mist.git"
+  },
+  "author": "Supercolbat, Dolphinbob, TheEpicProgrammer",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Supercolbat/Mist/issues"
+  },
+  "homepage": "https://github.com/Supercolbat/Mist#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "electron": "^12.0.0"
+  },
+  "keywords": []
+}
