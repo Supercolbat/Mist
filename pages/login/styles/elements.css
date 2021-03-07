@@ -1,23 +1,11 @@
-.rad30 {
-    border-radius: 30px;
-}
-
-
-/* Panes */
-body {
-    background-color: #212121;
-}
-#pane {
-    background-color: #3D3D3D;
-}
-
-
 /* Form */
 #formEmailLabel {
 
 }
 #formEmail {
     padding: 5px;
+
+    background-color: #3D3D3D;
 
     border-color: #777777;
     border-style: solid;
@@ -29,6 +17,8 @@ body {
 }
 #formPassword {
     padding: 5px;
+
+    background-color: #3D3D3D;
     
     border-color: #777777;
     border-style: solid;

@@ -1,0 +1,48 @@
+/* Global Declarations */
+.rad30 {
+    border-radius: 30px;
+}
+
+
+/* Title */
+#titlebar {
+    float: left;
+    user-select: none;
+    -webkit-app-region: drag;
+}
+
+
+/* Exit button */
+#titleExit:nth-child(0) {
+    background-color: #a73939;
+}
+#titleExit:nth-child(1) {
+    background-color: #722020;
+}
+
+/* Minimize button */
+#titleMinimize:nth-child(0) {
+    background-color: #e4d120;
+}
+#titleMinimize:nth-child(1) {
+    background-color: #8a7c14;
+}
+
+/* Maximize button */
+#titleMaximize:nth-child(0) {
+    background-color: #49b93f;
+}
+#titleMaximize:nth-child(1) {
+    background-color: #275e21;
+}
+
+
+/* Panes */
+body {
+    background-color: #212121;
+}
+#pane {
+    background-color: #3D3D3D;
+    margin-left: 5%;
+    margin-right: 5%;
+}
