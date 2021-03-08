@@ -16,7 +16,7 @@
 
 
 /* Exit button */
-#titleExit:nth-child(0) {
+#titleExit {
     fill: #a73939;
 }
 #titleExit:nth-child(1) {
@@ -24,7 +24,7 @@
 }
 
 /* Minimize button */
-#titleMinimize:nth-child(0) {
+#titleMinimize {
     fill: #e4d120;
 }
 #titleMinimize:nth-child(1) {
@@ -32,7 +32,7 @@
 }
 
 /* Maximize button */
-#titleMaximize:nth-child(0) {
+#titleMaximize {
     fill: #49b93f;
 }
 #titleMaximize:nth-child(1) {
